@@ -1,2 +1,2 @@
 console.log('I am goo dboy');
-console.log('Wowo3');
+console.log('Wowo');
